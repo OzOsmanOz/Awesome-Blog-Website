@@ -1,5 +1,4 @@
-Uploading Awesome Blog.mp4…
-
+https://user-images.githubusercontent.com/107813778/206540300-02f9bae6-72ae-4d05-a75c-d25c2ec797ba.mp4
 
 ## Used technologies
 
